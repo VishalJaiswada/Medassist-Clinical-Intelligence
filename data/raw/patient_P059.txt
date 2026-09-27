@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Anjali Gupta
+- Sex: Female
+- Age: 65 years
+- Medical Record Number (MRN): P059
+- Admission date: 2026-03-04
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with sudden right-sided weakness, facial droop, slurred speech.
+
+## Medical History
+Type 2 diabetes for 6 years; no known drug allergies; smoker (10 pack-years).
+
+## Examination Findings
+Relevant examination findings consistent with Ischemic Stroke. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 188/99 mmHg
+- Heart rate: 97 bpm
+- SpO2: 98% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 24 /min
+
+## Lab Results
+- CT brain: left MCA territory infarct
+- NIHSS score: 9
+- Carotid Doppler: 40% left stenosis
+
+## Diagnosis
+Primary diagnosis: Ischemic Stroke.
+
+## Treatment Plan
+- Aspirin 150 mg once daily
+- Atorvastatin 40 mg at night
+- Citicoline 500 mg twice daily
+
+## Outcome
+Condition managed; readmission risk noted, close monitoring advised.
+
+## Risk Factors
+chronic stress; family history of cardiovascular disease.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Physiotherapy started, thrombolysis window missed, secondary prevention.

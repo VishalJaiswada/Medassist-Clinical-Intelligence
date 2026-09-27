@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Deepak Mishra
+- Sex: Male
+- Age: 55 years
+- Medical Record Number (MRN): P040
+- Admission date: 2026-03-10
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with chest discomfort on exertion, headache, dizziness.
+
+## Medical History
+no known drug allergies; previous appendectomy in 2015; occasional alcohol use.
+
+## Examination Findings
+Relevant examination findings consistent with Hypertension (Stage 2). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 157/112 mmHg
+- Heart rate: 106 bpm
+- SpO2: 98% on room air
+- Temperature: 99.1°F
+- Respiratory rate: 26 /min
+
+## Lab Results
+- BP: 168/104 mmHg
+- Serum potassium: 4.1 mmol/L
+- ECG: left ventricular hypertrophy
+
+## Diagnosis
+Primary diagnosis: Hypertension (Stage 2).
+
+## Treatment Plan
+- Amlodipine 10 mg once daily
+- Losartan 50 mg once daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+obesity (BMI 31); none significant.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Low-salt diet, home BP monitoring, review in 4 weeks.

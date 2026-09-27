@@ -1,0 +1,8 @@
+# MedAssist — dark clinical theme (forced, identical on every machine).
+[theme]
+base = "dark"
+primaryColor = "#14B8A6"
+backgroundColor = "#0D1526"
+secondaryBackgroundColor = "#16233A"
+textColor = "#E8EEF6"
+font = "sans serif"

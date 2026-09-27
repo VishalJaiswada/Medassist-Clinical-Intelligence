@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Priya Sharma
+- Sex: Female
+- Age: 30 years
+- Medical Record Number (MRN): P022
+- Admission date: 2026-06-04
+- Attending physician: Dr. P. Nair
+
+## Reason for Admission
+Patient presented with change in sputum colour, wheeze, increased breathlessness.
+
+## Medical History
+previous appendectomy in 2015; occasional alcohol use; takes regular medication as prescribed.
+
+## Examination Findings
+Relevant examination findings consistent with COPD (Exacerbation). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 116/78 mmHg
+- Heart rate: 95 bpm
+- SpO2: 88% on room air
+- Temperature: 98.6°F
+- Respiratory rate: 22 /min
+
+## Lab Results
+- SpO2: 89% on room air
+- ABG: pCO2 52 mmHg
+- Chest X-ray: flattened diaphragms
+
+## Diagnosis
+Primary diagnosis: COPD (Exacerbation).
+
+## Treatment Plan
+- Tiotropium inhaler once daily
+- Salmeterol-fluticasone inhaler twice daily
+- Prednisolone 30 mg once daily for 5 days
+
+## Outcome
+Referred to specialist for further evaluation.
+
+## Risk Factors
+family history of cardiovascular disease; chronic stress.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Smoking cessation counselling, pulmonary rehabilitation referral.

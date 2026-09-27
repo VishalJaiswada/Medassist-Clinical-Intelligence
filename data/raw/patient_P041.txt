@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Shalini Rao
+- Sex: Female
+- Age: 51 years
+- Medical Record Number (MRN): P041
+- Admission date: 2026-08-09
+- Attending physician: Dr. A. Rao
+
+## Reason for Admission
+Patient presented with fatigue, swelling of feet, reduced urine output.
+
+## Medical History
+smoker (10 pack-years); family history of heart disease; hypertension for 4 years.
+
+## Examination Findings
+Relevant examination findings consistent with Chronic Kidney Disease (Stage 3b). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 115/77 mmHg
+- Heart rate: 103 bpm
+- SpO2: 96% on room air
+- Temperature: 98.6°F
+- Respiratory rate: 16 /min
+
+## Lab Results
+- eGFR: 38 mL/min
+- Creatinine: 1.9 mg/dL (high)
+- Urine protein: 2+
+
+## Diagnosis
+Primary diagnosis: Chronic Kidney Disease (Stage 3b).
+
+## Treatment Plan
+- Sevelamer 800 mg thrice daily
+- Sodium bicarbonate 500 mg twice daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+obesity (BMI 31); chronic stress.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Nephrology follow-up, avoid NSAIDs, low-protein diet.

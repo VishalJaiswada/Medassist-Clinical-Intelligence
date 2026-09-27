@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Manoj Tiwari
+- Sex: Male
+- Age: 46 years
+- Medical Record Number (MRN): P045
+- Admission date: 2026-06-23
+- Attending physician: Dr. M. Khan
+
+## Reason for Admission
+Patient presented with slurred speech, facial droop, sudden right-sided weakness.
+
+## Medical History
+no known drug allergies; takes regular medication as prescribed; smoker (10 pack-years).
+
+## Examination Findings
+Relevant examination findings consistent with Ischemic Stroke. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 181/107 mmHg
+- Heart rate: 70 bpm
+- SpO2: 99% on room air
+- Temperature: 101.2°F
+- Respiratory rate: 15 /min
+
+## Lab Results
+- CT brain: left MCA territory infarct
+- NIHSS score: 9
+- Carotid Doppler: 40% left stenosis
+
+## Diagnosis
+Primary diagnosis: Ischemic Stroke.
+
+## Treatment Plan
+- Aspirin 150 mg once daily
+- Atorvastatin 40 mg at night
+- Citicoline 500 mg twice daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+sedentary lifestyle; age above 65.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Physiotherapy started, thrombolysis window missed, secondary prevention.

@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Suresh Yadav
+- Sex: Male
+- Age: 63 years
+- Medical Record Number (MRN): P056
+- Admission date: 2026-07-02
+- Attending physician: Dr. M. Khan
+
+## Reason for Admission
+Patient presented with fatigue, swelling of feet, reduced urine output.
+
+## Medical History
+Type 2 diabetes for 6 years; no known drug allergies; smoker (10 pack-years).
+
+## Examination Findings
+Relevant examination findings consistent with Chronic Kidney Disease (Stage 3b). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 133/74 mmHg
+- Heart rate: 86 bpm
+- SpO2: 95% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 25 /min
+
+## Lab Results
+- eGFR: 38 mL/min
+- Creatinine: 1.9 mg/dL (high)
+- Urine protein: 2+
+
+## Diagnosis
+Primary diagnosis: Chronic Kidney Disease (Stage 3b).
+
+## Treatment Plan
+- Sevelamer 800 mg thrice daily
+- Sodium bicarbonate 500 mg twice daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+smoking history; none significant.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Nephrology follow-up, avoid NSAIDs, low-protein diet.

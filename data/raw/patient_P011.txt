@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Karan Patel
+- Sex: Male
+- Age: 32 years
+- Medical Record Number (MRN): P011
+- Admission date: 2026-03-07
+- Attending physician: Dr. A. Rao
+
+## Reason for Admission
+Patient presented with wheeze, change in sputum colour, increased breathlessness.
+
+## Medical History
+takes regular medication as prescribed; previous appendectomy in 2015; smoker (10 pack-years).
+
+## Examination Findings
+Relevant examination findings consistent with COPD (Exacerbation). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 131/83 mmHg
+- Heart rate: 95 bpm
+- SpO2: 90% on room air
+- Temperature: 101.2°F
+- Respiratory rate: 21 /min
+
+## Lab Results
+- SpO2: 89% on room air
+- ABG: pCO2 52 mmHg
+- Chest X-ray: flattened diaphragms
+
+## Diagnosis
+Primary diagnosis: COPD (Exacerbation).
+
+## Treatment Plan
+- Tiotropium inhaler once daily
+- Salmeterol-fluticasone inhaler twice daily
+- Prednisolone 30 mg once daily for 5 days
+
+## Outcome
+Referred to specialist for further evaluation.
+
+## Risk Factors
+age above 65; chronic stress.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Smoking cessation counselling, pulmonary rehabilitation referral.

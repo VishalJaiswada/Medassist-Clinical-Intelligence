@@ -1,0 +1,47 @@
+## Patient Information
+- Name: Rekha Verma
+- Sex: Female
+- Age: 51 years
+- Medical Record Number (MRN): P053
+- Admission date: 2026-06-20
+- Attending physician: Dr. P. Nair
+
+## Reason for Admission
+Patient presented with severe central chest pain radiating to left arm, sweating, breathlessness.
+
+## Medical History
+no known drug allergies; hypertension for 4 years; Type 2 diabetes for 6 years.
+
+## Examination Findings
+Relevant examination findings consistent with Acute Myocardial Infarction. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 165/110 mmHg
+- Heart rate: 77 bpm
+- SpO2: 99% on room air
+- Temperature: 99.1°F
+- Respiratory rate: 21 /min
+
+## Lab Results
+- Troponin I: 8.4 ng/mL (critical high)
+- ECG: ST elevation in anterior leads
+- LVEF: 40%
+
+## Diagnosis
+Primary diagnosis: Acute Myocardial Infarction.
+
+## Treatment Plan
+- Aspirin 75 mg once daily
+- Clopidogrel 75 mg once daily
+- Atorvastatin 80 mg at night
+- Metoprolol 50 mg twice daily
+
+## Outcome
+Stable at discharge; follow-up required in 2 weeks.
+
+## Risk Factors
+obesity (BMI 31); sedentary lifestyle.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Primary PCI done. Cardiac rehabilitation, dual antiplatelet therapy for 12 months.

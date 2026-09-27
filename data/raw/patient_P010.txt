@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Suresh Yadav
+- Sex: Male
+- Age: 28 years
+- Medical Record Number (MRN): P010
+- Admission date: 2026-03-21
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with wheezing, night-time cough, shortness of breath.
+
+## Medical History
+Type 2 diabetes for 6 years; takes regular medication as prescribed; family history of heart disease.
+
+## Examination Findings
+Relevant examination findings consistent with Asthma (Acute Exacerbation). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 112/71 mmHg
+- Heart rate: 89 bpm
+- SpO2: 94% on room air
+- Temperature: 98.6°F
+- Respiratory rate: 22 /min
+
+## Lab Results
+- Peak flow: 55% of predicted
+- SpO2: 93% on room air
+- Chest X-ray: hyperinflated lungs
+
+## Diagnosis
+Primary diagnosis: Asthma (Acute Exacerbation).
+
+## Treatment Plan
+- Salbutamol inhaler 2 puffs as needed
+- Budesonide inhaler 200 mcg twice daily
+- Prednisolone 40 mg once daily for 5 days
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+chronic stress; obesity (BMI 31).
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Asthma action plan given, inhaler technique checked, review in 2 weeks.

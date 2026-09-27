@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Deepak Mishra
+- Sex: Male
+- Age: 68 years
+- Medical Record Number (MRN): P037
+- Admission date: 2026-05-18
+- Attending physician: Dr. M. Khan
+
+## Reason for Admission
+Patient presented with productive cough, right-sided chest pain, fever with chills.
+
+## Medical History
+family history of heart disease; smoker (10 pack-years); takes regular medication as prescribed.
+
+## Examination Findings
+Relevant examination findings consistent with Community-Acquired Pneumonia. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 132/84 mmHg
+- Heart rate: 87 bpm
+- SpO2: 90% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 17 /min
+
+## Lab Results
+- WBC: 14,200 /uL (high)
+- CRP: 96 mg/L (high)
+- Chest X-ray: right lower lobe consolidation
+
+## Diagnosis
+Primary diagnosis: Community-Acquired Pneumonia.
+
+## Treatment Plan
+- Amoxicillin-clavulanate 625 mg thrice daily
+- Azithromycin 500 mg once daily
+- Paracetamol 650 mg as needed
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+smoking history; sedentary lifestyle.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Complete 7-day antibiotic course, repeat chest X-ray in 6 weeks.

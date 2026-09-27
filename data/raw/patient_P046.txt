@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Divya Nair
+- Sex: Female
+- Age: 76 years
+- Medical Record Number (MRN): P046
+- Admission date: 2026-06-20
+- Attending physician: Dr. R. Iyer
+
+## Reason for Admission
+Patient presented with blurred vision, frequent urination, increased thirst.
+
+## Medical History
+smoker (10 pack-years); occasional alcohol use; no known drug allergies.
+
+## Examination Findings
+Relevant examination findings consistent with Type 2 Diabetes Mellitus. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 134/71 mmHg
+- Heart rate: 85 bpm
+- SpO2: 96% on room air
+- Temperature: 99.1°F
+- Respiratory rate: 28 /min
+
+## Lab Results
+- HbA1c: 9.2% (high)
+- Fasting glucose: 212 mg/dL (high)
+- Creatinine: 1.1 mg/dL
+
+## Diagnosis
+Primary diagnosis: Type 2 Diabetes Mellitus.
+
+## Treatment Plan
+- Metformin 1000 mg twice daily
+- Glimepiride 2 mg once daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+chronic stress; obesity (BMI 31).
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Diabetic diet, HbA1c recheck in 3 months, foot-care counselling.

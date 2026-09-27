@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Arjun Nair
+- Sex: Male
+- Age: 28 years
+- Medical Record Number (MRN): P052
+- Admission date: 2026-08-25
+- Attending physician: Dr. A. Rao
+
+## Reason for Admission
+Patient presented with right-sided chest pain, productive cough, fever with chills.
+
+## Medical History
+hypertension for 4 years; smoker (10 pack-years); Type 2 diabetes for 6 years.
+
+## Examination Findings
+Relevant examination findings consistent with Community-Acquired Pneumonia. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 124/75 mmHg
+- Heart rate: 87 bpm
+- SpO2: 93% on room air
+- Temperature: 98.6°F
+- Respiratory rate: 14 /min
+
+## Lab Results
+- WBC: 14,200 /uL (high)
+- CRP: 96 mg/L (high)
+- Chest X-ray: right lower lobe consolidation
+
+## Diagnosis
+Primary diagnosis: Community-Acquired Pneumonia.
+
+## Treatment Plan
+- Amoxicillin-clavulanate 625 mg thrice daily
+- Azithromycin 500 mg once daily
+- Paracetamol 650 mg as needed
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+age above 65; sedentary lifestyle.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Complete 7-day antibiotic course, repeat chest X-ray in 6 weeks.

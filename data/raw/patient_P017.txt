@@ -1,0 +1,47 @@
+## Patient Information
+- Name: Anil Verma
+- Sex: Male
+- Age: 42 years
+- Medical Record Number (MRN): P017
+- Admission date: 2026-05-05
+- Attending physician: Dr. A. Rao
+
+## Reason for Admission
+Patient presented with sweating, breathlessness, severe central chest pain radiating to left arm.
+
+## Medical History
+occasional alcohol use; family history of heart disease; Type 2 diabetes for 6 years.
+
+## Examination Findings
+Relevant examination findings consistent with Acute Myocardial Infarction. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 156/112 mmHg
+- Heart rate: 85 bpm
+- SpO2: 96% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 23 /min
+
+## Lab Results
+- Troponin I: 8.4 ng/mL (critical high)
+- ECG: ST elevation in anterior leads
+- LVEF: 40%
+
+## Diagnosis
+Primary diagnosis: Acute Myocardial Infarction.
+
+## Treatment Plan
+- Aspirin 75 mg once daily
+- Clopidogrel 75 mg once daily
+- Atorvastatin 80 mg at night
+- Metoprolol 50 mg twice daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+sedentary lifestyle; smoking history.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Primary PCI done. Cardiac rehabilitation, dual antiplatelet therapy for 12 months.

@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Suresh Yadav
+- Sex: Male
+- Age: 79 years
+- Medical Record Number (MRN): P004
+- Admission date: 2026-04-12
+- Attending physician: Dr. M. Khan
+
+## Reason for Admission
+Patient presented with dizziness, chest discomfort on exertion, headache.
+
+## Medical History
+family history of heart disease; hypertension for 4 years; no known drug allergies.
+
+## Examination Findings
+Relevant examination findings consistent with Hypertension (Stage 2). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 154/114 mmHg
+- Heart rate: 102 bpm
+- SpO2: 96% on room air
+- Temperature: 99.1°F
+- Respiratory rate: 16 /min
+
+## Lab Results
+- BP: 168/104 mmHg
+- Serum potassium: 4.1 mmol/L
+- ECG: left ventricular hypertrophy
+
+## Diagnosis
+Primary diagnosis: Hypertension (Stage 2).
+
+## Treatment Plan
+- Amlodipine 10 mg once daily
+- Losartan 50 mg once daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+sedentary lifestyle; chronic stress.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Low-salt diet, home BP monitoring, review in 4 weeks.

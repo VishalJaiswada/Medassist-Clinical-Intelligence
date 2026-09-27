@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Pooja Mishra
+- Sex: Female
+- Age: 77 years
+- Medical Record Number (MRN): P048
+- Admission date: 2026-07-20
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with vomiting, right lower abdominal pain, low-grade fever.
+
+## Medical History
+no known drug allergies; smoker (10 pack-years); hypertension for 4 years.
+
+## Examination Findings
+Relevant examination findings consistent with Acute Appendicitis. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 137/72 mmHg
+- Heart rate: 94 bpm
+- SpO2: 97% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 28 /min
+
+## Lab Results
+- WBC: 13,800 /uL (high)
+- Ultrasound: dilated appendix 9 mm, non-compressible
+
+## Diagnosis
+Primary diagnosis: Acute Appendicitis.
+
+## Treatment Plan
+- Ceftriaxone 1 g twice daily IV
+- Metronidazole 500 mg thrice daily IV
+- Paracetamol 1 g thrice daily IV
+
+## Outcome
+Stable at discharge; follow-up required in 2 weeks.
+
+## Risk Factors
+sedentary lifestyle; age above 65.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Laparoscopic appendectomy done on day 1. Suture removal on day 8.

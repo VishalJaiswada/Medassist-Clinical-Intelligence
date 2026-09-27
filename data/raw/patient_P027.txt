@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Neha Kumari
+- Sex: Female
+- Age: 63 years
+- Medical Record Number (MRN): P027
+- Admission date: 2026-04-25
+- Attending physician: Dr. M. Khan
+
+## Reason for Admission
+Patient presented with ankle swelling, night-time cough, breathlessness on lying flat.
+
+## Medical History
+takes regular medication as prescribed; smoker (10 pack-years); no known drug allergies.
+
+## Examination Findings
+Relevant examination findings consistent with Congestive Heart Failure. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 183/110 mmHg
+- Heart rate: 85 bpm
+- SpO2: 96% on room air
+- Temperature: 101.2°F
+- Respiratory rate: 15 /min
+
+## Lab Results
+- BNP: 1,240 pg/mL (high)
+- Echo: LVEF 35%
+- Chest X-ray: pulmonary congestion
+
+## Diagnosis
+Primary diagnosis: Congestive Heart Failure.
+
+## Treatment Plan
+- Furosemide 40 mg once daily
+- Spironolactone 25 mg once daily
+- Bisoprolol 2.5 mg once daily
+
+## Outcome
+Stable at discharge; follow-up required in 2 weeks.
+
+## Risk Factors
+smoking history; sedentary lifestyle.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Fluid restriction 1.5 L/day, daily weight monitoring, cardiology review in 2 weeks.

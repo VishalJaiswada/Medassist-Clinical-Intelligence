@@ -1,0 +1,47 @@
+## Patient Information
+- Name: Vikram Singh
+- Sex: Male
+- Age: 47 years
+- Medical Record Number (MRN): P008
+- Admission date: 2026-05-12
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with breathlessness, severe central chest pain radiating to left arm, sweating.
+
+## Medical History
+takes regular medication as prescribed; Type 2 diabetes for 6 years; previous appendectomy in 2015.
+
+## Examination Findings
+Relevant examination findings consistent with Acute Myocardial Infarction. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 153/102 mmHg
+- Heart rate: 73 bpm
+- SpO2: 99% on room air
+- Temperature: 98.6°F
+- Respiratory rate: 25 /min
+
+## Lab Results
+- Troponin I: 8.4 ng/mL (critical high)
+- ECG: ST elevation in anterior leads
+- LVEF: 40%
+
+## Diagnosis
+Primary diagnosis: Acute Myocardial Infarction.
+
+## Treatment Plan
+- Aspirin 75 mg once daily
+- Clopidogrel 75 mg once daily
+- Atorvastatin 80 mg at night
+- Metoprolol 50 mg twice daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+age above 65; family history of cardiovascular disease.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Primary PCI done. Cardiac rehabilitation, dual antiplatelet therapy for 12 months.

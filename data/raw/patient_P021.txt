@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Suresh Yadav
+- Sex: Male
+- Age: 25 years
+- Medical Record Number (MRN): P021
+- Admission date: 2026-08-12
+- Attending physician: Dr. P. Nair
+
+## Reason for Admission
+Patient presented with productive cough, right-sided chest pain, fever with chills.
+
+## Medical History
+hypertension for 4 years; previous appendectomy in 2015; no known drug allergies.
+
+## Examination Findings
+Relevant examination findings consistent with Community-Acquired Pneumonia. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 122/87 mmHg
+- Heart rate: 69 bpm
+- SpO2: 90% on room air
+- Temperature: 98.6°F
+- Respiratory rate: 28 /min
+
+## Lab Results
+- WBC: 14,200 /uL (high)
+- CRP: 96 mg/L (high)
+- Chest X-ray: right lower lobe consolidation
+
+## Diagnosis
+Primary diagnosis: Community-Acquired Pneumonia.
+
+## Treatment Plan
+- Amoxicillin-clavulanate 625 mg thrice daily
+- Azithromycin 500 mg once daily
+- Paracetamol 650 mg as needed
+
+## Outcome
+Condition managed; readmission risk noted, close monitoring advised.
+
+## Risk Factors
+smoking history; family history of cardiovascular disease.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Complete 7-day antibiotic course, repeat chest X-ray in 6 weeks.

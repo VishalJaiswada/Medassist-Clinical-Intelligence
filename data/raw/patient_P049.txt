@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Anjali Gupta
+- Sex: Female
+- Age: 77 years
+- Medical Record Number (MRN): P049
+- Admission date: 2026-05-12
+- Attending physician: Dr. P. Nair
+
+## Reason for Admission
+Patient presented with wheeze, change in sputum colour, increased breathlessness.
+
+## Medical History
+takes regular medication as prescribed; occasional alcohol use; smoker (10 pack-years).
+
+## Examination Findings
+Relevant examination findings consistent with COPD (Exacerbation). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 134/87 mmHg
+- Heart rate: 97 bpm
+- SpO2: 91% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 27 /min
+
+## Lab Results
+- SpO2: 89% on room air
+- ABG: pCO2 52 mmHg
+- Chest X-ray: flattened diaphragms
+
+## Diagnosis
+Primary diagnosis: COPD (Exacerbation).
+
+## Treatment Plan
+- Tiotropium inhaler once daily
+- Salmeterol-fluticasone inhaler twice daily
+- Prednisolone 30 mg once daily for 5 days
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+chronic stress; smoking history.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Smoking cessation counselling, pulmonary rehabilitation referral.

@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Rekha Verma
+- Sex: Female
+- Age: 81 years
+- Medical Record Number (MRN): P028
+- Admission date: 2026-08-05
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with breathlessness on lying flat, night-time cough, ankle swelling.
+
+## Medical History
+smoker (10 pack-years); takes regular medication as prescribed; family history of heart disease.
+
+## Examination Findings
+Relevant examination findings consistent with Congestive Heart Failure. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 154/108 mmHg
+- Heart rate: 89 bpm
+- SpO2: 98% on room air
+- Temperature: 101.2°F
+- Respiratory rate: 20 /min
+
+## Lab Results
+- BNP: 1,240 pg/mL (high)
+- Echo: LVEF 35%
+- Chest X-ray: pulmonary congestion
+
+## Diagnosis
+Primary diagnosis: Congestive Heart Failure.
+
+## Treatment Plan
+- Furosemide 40 mg once daily
+- Spironolactone 25 mg once daily
+- Bisoprolol 2.5 mg once daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+none significant; obesity (BMI 31).
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Fluid restriction 1.5 L/day, daily weight monitoring, cardiology review in 2 weeks.

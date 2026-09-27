@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Shalini Rao
+- Sex: Female
+- Age: 46 years
+- Medical Record Number (MRN): P055
+- Admission date: 2026-08-19
+- Attending physician: Dr. A. Rao
+
+## Reason for Admission
+Patient presented with change in sputum colour, wheeze, increased breathlessness.
+
+## Medical History
+previous appendectomy in 2015; no known drug allergies; Type 2 diabetes for 6 years.
+
+## Examination Findings
+Relevant examination findings consistent with COPD (Exacerbation). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 139/89 mmHg
+- Heart rate: 99 bpm
+- SpO2: 93% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 26 /min
+
+## Lab Results
+- SpO2: 89% on room air
+- ABG: pCO2 52 mmHg
+- Chest X-ray: flattened diaphragms
+
+## Diagnosis
+Primary diagnosis: COPD (Exacerbation).
+
+## Treatment Plan
+- Tiotropium inhaler once daily
+- Salmeterol-fluticasone inhaler twice daily
+- Prednisolone 30 mg once daily for 5 days
+
+## Outcome
+Stable at discharge; follow-up required in 2 weeks.
+
+## Risk Factors
+family history of cardiovascular disease; sedentary lifestyle.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Smoking cessation counselling, pulmonary rehabilitation referral.

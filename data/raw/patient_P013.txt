@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Karan Patel
+- Sex: Male
+- Age: 77 years
+- Medical Record Number (MRN): P013
+- Admission date: 2026-06-07
+- Attending physician: Dr. A. Rao
+
+## Reason for Admission
+Patient presented with increased thirst, blurred vision, fatigue.
+
+## Medical History
+previous appendectomy in 2015; smoker (10 pack-years); takes regular medication as prescribed.
+
+## Examination Findings
+Relevant examination findings consistent with Type 2 Diabetes Mellitus. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 115/82 mmHg
+- Heart rate: 92 bpm
+- SpO2: 95% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 28 /min
+
+## Lab Results
+- HbA1c: 9.2% (high)
+- Fasting glucose: 212 mg/dL (high)
+- Creatinine: 1.1 mg/dL
+
+## Diagnosis
+Primary diagnosis: Type 2 Diabetes Mellitus.
+
+## Treatment Plan
+- Metformin 1000 mg twice daily
+- Glimepiride 2 mg once daily
+
+## Outcome
+Stable at discharge; follow-up required in 2 weeks.
+
+## Risk Factors
+obesity (BMI 31); sedentary lifestyle.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Diabetic diet, HbA1c recheck in 3 months, foot-care counselling.

@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Ramesh Gupta
+- Sex: Male
+- Age: 49 years
+- Medical Record Number (MRN): P012
+- Admission date: 2026-06-05
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with wheezing, night-time cough, shortness of breath.
+
+## Medical History
+smoker (10 pack-years); occasional alcohol use; takes regular medication as prescribed.
+
+## Examination Findings
+Relevant examination findings consistent with Asthma (Acute Exacerbation). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 118/84 mmHg
+- Heart rate: 72 bpm
+- SpO2: 89% on room air
+- Temperature: 101.2°F
+- Respiratory rate: 26 /min
+
+## Lab Results
+- Peak flow: 55% of predicted
+- SpO2: 93% on room air
+- Chest X-ray: hyperinflated lungs
+
+## Diagnosis
+Primary diagnosis: Asthma (Acute Exacerbation).
+
+## Treatment Plan
+- Salbutamol inhaler 2 puffs as needed
+- Budesonide inhaler 200 mcg twice daily
+- Prednisolone 40 mg once daily for 5 days
+
+## Outcome
+Referred to specialist for further evaluation.
+
+## Risk Factors
+family history of cardiovascular disease; age above 65.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Asthma action plan given, inhaler technique checked, review in 2 weeks.

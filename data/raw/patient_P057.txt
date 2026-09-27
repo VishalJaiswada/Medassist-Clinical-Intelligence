@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Divya Nair
+- Sex: Female
+- Age: 56 years
+- Medical Record Number (MRN): P057
+- Admission date: 2026-03-26
+- Attending physician: Dr. R. Iyer
+
+## Reason for Admission
+Patient presented with swelling of feet, reduced urine output, fatigue.
+
+## Medical History
+occasional alcohol use; family history of heart disease; no known drug allergies.
+
+## Examination Findings
+Relevant examination findings consistent with Chronic Kidney Disease (Stage 3b). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 140/72 mmHg
+- Heart rate: 82 bpm
+- SpO2: 96% on room air
+- Temperature: 101.2°F
+- Respiratory rate: 27 /min
+
+## Lab Results
+- eGFR: 38 mL/min
+- Creatinine: 1.9 mg/dL (high)
+- Urine protein: 2+
+
+## Diagnosis
+Primary diagnosis: Chronic Kidney Disease (Stage 3b).
+
+## Treatment Plan
+- Sevelamer 800 mg thrice daily
+- Sodium bicarbonate 500 mg twice daily
+
+## Outcome
+Stable at discharge; follow-up required in 2 weeks.
+
+## Risk Factors
+sedentary lifestyle; age above 65.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Nephrology follow-up, avoid NSAIDs, low-protein diet.

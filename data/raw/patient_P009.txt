@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Vikram Singh
+- Sex: Male
+- Age: 66 years
+- Medical Record Number (MRN): P009
+- Admission date: 2026-08-25
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with low-grade fever, right lower abdominal pain, vomiting.
+
+## Medical History
+previous appendectomy in 2015; hypertension for 4 years; occasional alcohol use.
+
+## Examination Findings
+Relevant examination findings consistent with Acute Appendicitis. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 132/79 mmHg
+- Heart rate: 110 bpm
+- SpO2: 98% on room air
+- Temperature: 100.4°F
+- Respiratory rate: 21 /min
+
+## Lab Results
+- WBC: 13,800 /uL (high)
+- Ultrasound: dilated appendix 9 mm, non-compressible
+
+## Diagnosis
+Primary diagnosis: Acute Appendicitis.
+
+## Treatment Plan
+- Ceftriaxone 1 g twice daily IV
+- Metronidazole 500 mg thrice daily IV
+- Paracetamol 1 g thrice daily IV
+
+## Outcome
+Referred to specialist for further evaluation.
+
+## Risk Factors
+obesity (BMI 31); age above 65.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Laparoscopic appendectomy done on day 1. Suture removal on day 8.

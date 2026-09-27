@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Ramesh Gupta
+- Sex: Male
+- Age: 64 years
+- Medical Record Number (MRN): P047
+- Admission date: 2026-04-03
+- Attending physician: Dr. A. Rao
+
+## Reason for Admission
+Patient presented with increased breathlessness, wheeze, change in sputum colour.
+
+## Medical History
+Type 2 diabetes for 6 years; occasional alcohol use; smoker (10 pack-years).
+
+## Examination Findings
+Relevant examination findings consistent with COPD (Exacerbation). Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 124/73 mmHg
+- Heart rate: 77 bpm
+- SpO2: 93% on room air
+- Temperature: 101.2°F
+- Respiratory rate: 28 /min
+
+## Lab Results
+- SpO2: 89% on room air
+- ABG: pCO2 52 mmHg
+- Chest X-ray: flattened diaphragms
+
+## Diagnosis
+Primary diagnosis: COPD (Exacerbation).
+
+## Treatment Plan
+- Tiotropium inhaler once daily
+- Salmeterol-fluticasone inhaler twice daily
+- Prednisolone 30 mg once daily for 5 days
+
+## Outcome
+Stable at discharge; follow-up required in 2 weeks.
+
+## Risk Factors
+family history of cardiovascular disease; chronic stress.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Smoking cessation counselling, pulmonary rehabilitation referral.

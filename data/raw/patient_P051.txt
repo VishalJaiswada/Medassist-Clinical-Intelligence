@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Karan Patel
+- Sex: Male
+- Age: 82 years
+- Medical Record Number (MRN): P051
+- Admission date: 2026-05-26
+- Attending physician: Dr. M. Khan
+
+## Reason for Admission
+Patient presented with right lower abdominal pain, low-grade fever, vomiting.
+
+## Medical History
+no known drug allergies; Type 2 diabetes for 6 years; smoker (10 pack-years).
+
+## Examination Findings
+Relevant examination findings consistent with Acute Appendicitis. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 129/82 mmHg
+- Heart rate: 89 bpm
+- SpO2: 95% on room air
+- Temperature: 101.2°F
+- Respiratory rate: 19 /min
+
+## Lab Results
+- WBC: 13,800 /uL (high)
+- Ultrasound: dilated appendix 9 mm, non-compressible
+
+## Diagnosis
+Primary diagnosis: Acute Appendicitis.
+
+## Treatment Plan
+- Ceftriaxone 1 g twice daily IV
+- Metronidazole 500 mg thrice daily IV
+- Paracetamol 1 g thrice daily IV
+
+## Outcome
+Stable at discharge; follow-up required in 2 weeks.
+
+## Risk Factors
+none significant; obesity (BMI 31).
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Laparoscopic appendectomy done on day 1. Suture removal on day 8.

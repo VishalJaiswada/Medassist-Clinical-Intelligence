@@ -1,0 +1,46 @@
+## Patient Information
+- Name: Amit Sharma
+- Sex: Male
+- Age: 42 years
+- Medical Record Number (MRN): P025
+- Admission date: 2026-04-08
+- Attending physician: Dr. S. Banerjee
+
+## Reason for Admission
+Patient presented with night-time cough, ankle swelling, breathlessness on lying flat.
+
+## Medical History
+smoker (10 pack-years); family history of heart disease; no known drug allergies.
+
+## Examination Findings
+Relevant examination findings consistent with Congestive Heart Failure. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 151/96 mmHg
+- Heart rate: 98 bpm
+- SpO2: 96% on room air
+- Temperature: 98.6°F
+- Respiratory rate: 21 /min
+
+## Lab Results
+- BNP: 1,240 pg/mL (high)
+- Echo: LVEF 35%
+- Chest X-ray: pulmonary congestion
+
+## Diagnosis
+Primary diagnosis: Congestive Heart Failure.
+
+## Treatment Plan
+- Furosemide 40 mg once daily
+- Spironolactone 25 mg once daily
+- Bisoprolol 2.5 mg once daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+chronic stress; family history of cardiovascular disease.
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Fluid restriction 1.5 L/day, daily weight monitoring, cardiology review in 2 weeks.

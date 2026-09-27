@@ -1,0 +1,45 @@
+## Patient Information
+- Name: Shalini Rao
+- Sex: Female
+- Age: 40 years
+- Medical Record Number (MRN): P044
+- Admission date: 2026-04-25
+- Attending physician: Dr. R. Iyer
+
+## Reason for Admission
+Patient presented with increased thirst, blurred vision, fatigue.
+
+## Medical History
+occasional alcohol use; takes regular medication as prescribed; Type 2 diabetes for 6 years.
+
+## Examination Findings
+Relevant examination findings consistent with Type 2 Diabetes Mellitus. Vitals stable at presentation unless noted.
+
+## Vital Signs
+- BP: 126/90 mmHg
+- Heart rate: 85 bpm
+- SpO2: 98% on room air
+- Temperature: 99.1°F
+- Respiratory rate: 23 /min
+
+## Lab Results
+- HbA1c: 9.2% (high)
+- Fasting glucose: 212 mg/dL (high)
+- Creatinine: 1.1 mg/dL
+
+## Diagnosis
+Primary diagnosis: Type 2 Diabetes Mellitus.
+
+## Treatment Plan
+- Metformin 1000 mg twice daily
+- Glimepiride 2 mg once daily
+
+## Outcome
+Improved with treatment and discharged in stable condition.
+
+## Risk Factors
+none significant; obesity (BMI 31).
+
+## Discharge Summary
+Patient improved with treatment and was discharged in stable condition.
+Follow-up plan: Diabetic diet, HbA1c recheck in 3 months, foot-care counselling.
